@@ -1,0 +1,12 @@
+hi, this is Arpit..
+THINGS WE LEARNT IN THE WORKSHOP:
+A brief on git commands in our local host.
+we learnt how to create a branch.
+We learnt how to commit in a file,
+we learnt how to create a file in it,
+and then we learnt how to merge up the file from one branch to another.
+we learnt how to delete a branch.
+we learnt how to push the changes to the master branch
+We learnt how to upload the files from local host to our GitHub accounts.
+learnt how to solve  the issues .
+Also leant how to Download the files from someone else's repository
